@@ -13,3 +13,9 @@
 ### 发布前修复
 - 修复 `avaritia:extreme_smithing` 配方 `base`/`template` 使用 `id` 导致的 8 条配方解析失败。
 - 将工业先锋激光钻头的超 9 格无序配方改为 9 格有序配方，修复 JEI broken recipe。
+
+更新时间：2026-09-28 01:15
+
+### ProjectE 数据修复
+- 修复 `moderate_zero_emc.json` 中 `emc_value` 使用数字导致的 ProjectE 自定义转换解析错误，统一改为字符串。
+- 将 17 个原版锻造模板与 Avaritia 升级模板加入 0 EMC 列表，消除盔甲纹饰模板 EMC 刷取警告。
