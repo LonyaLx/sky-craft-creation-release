@@ -1,0 +1,9 @@
+更新时间：2026-09-28 00:55
+
+### 版本 1.1.1
+- 更新版本号与安装包，模组数量 218 → 232，发布清单为 175 个远程模组 + 57 个随包模组。
+- 新增 Iron Furnaces、Dyson Cube Project、Click Machine、Simple Backups、Overloaded Armor Bar、Polymorph、FTB Quest Enhance、Euphoria Patcher、AllTheCompressed、AllTheModium、AllTheOres、Almost Unified、Almost Unified IE、Ex Machinis Deorum。
+- 下界恢复原版生成；Mystical Agriculture 灵魂石/离魂矿矿脉恢复，离魂粉来源修复。
+- 补齐 ProjectE、Integrated Dynamics、Ender Drives、Apotheosis、Functional Chemical、ProjectExpansion 等模组物品汉化；物品/方块/流体名称汉化缺口为 0。
+- 新增 Avaritia 无尽水桶所需粉雪桶来源：桶 + 4 雪球 → 粉雪桶。
+- 测试实例与开发源包已同步，发布包已重建。

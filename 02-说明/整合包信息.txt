@@ -1,18 +1,19 @@
 【上传填写信息】
 整合包名称：天工创世
 英文名称：sky-craft-creation
-版本号：1.1.0
+版本号：1.1.1
 Minecraft 版本：1.21.1
 模组加载器：NeoForge 21.1.249
 Java 版本：Java 21
-模组数量：218
+模组数量：232
+模组构成：175 个远程 + 57 个随包
 任务数量：23 章、7 个章节组、857 个任务
 语言支持：简体中文
 内置光影：Complementary Reimagined
-游戏窗口标题：《天工创世》v1.1.0 --凉寻Lonya
-安装包：天工创世-1.1.0-CurseForge.zip
-安装包大小：约 78.56 MB
-SHA-256：691C654607BD3BF3AD078A0C63590AD289AA254A774929808B157A6E28E2E1AD
+游戏窗口标题：《天工创世》v1.1.1 --凉寻Lonya
+安装包：天工创世-1.1.1-CurseForge.zip
+安装包大小：约 81.39 MB
+SHA-256：017FCDFFC42ACB3306C6D80D693173FA2A1EF8DA9376D78F242B340AF0167D15
 发布渠道：BBSMC、MCMOD、CurseForge
 封面：天工创世封面_空岛版.jpg
 
@@ -23,7 +24,7 @@ SHA-256：691C654607BD3BF3AD078A0C63590AD289AA254A774929808B157A6E28E2E1AD
 1. 使用 PCL2、HMCL 等支持 CurseForge 整合包导入的启动器。
 2. 不要解压安装包，直接选择“导入/安装整合包”。
 3. Java 选择 21，允许安装 NeoForge 21.1.249。
-4. 首次启动需要联网下载 164 个远程模组。
+4. 首次启动需要联网下载 175 个远程模组。
 
 【推荐标签】
 空岛、科技、任务、自动化、硬核、AE2、Mekanism、ProjectE、Avaritia、NeoForge、1.21.1、简体中文
