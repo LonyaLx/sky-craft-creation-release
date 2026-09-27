@@ -7,3 +7,9 @@
 - 补齐 ProjectE、Integrated Dynamics、Ender Drives、Apotheosis、Functional Chemical、ProjectExpansion 等模组物品汉化；物品/方块/流体名称汉化缺口为 0。
 - 新增 Avaritia 无尽水桶所需粉雪桶来源：桶 + 4 雪球 → 粉雪桶。
 - 测试实例与开发源包已同步，发布包已重建。
+
+更新时间：2026-09-28 01:05
+
+### 发布前修复
+- 修复 `avaritia:extreme_smithing` 配方 `base`/`template` 使用 `id` 导致的 8 条配方解析失败。
+- 将工业先锋激光钻头的超 9 格无序配方改为 9 格有序配方，修复 JEI broken recipe。
